@@ -13,7 +13,7 @@ class Board extends React.Component {
     }
     renderBoard() {
         let rows = [];
-        for(let i = 0; i < 100; i = i + 10) {
+        for(let i = 0; i < this.props.size; i = i + 10) {
             let row = this.renderRow(i);
             rows.push(<div className="board-row" key={i}>{row}</div>);
         }

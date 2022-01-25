@@ -4,7 +4,7 @@ import Game from "./components/game/game.component";
 function App() {
   return (
     <div className="App">
-      <Game />
+      <Game boardSize = {100} autoPlayInterval = {500}  />
     </div>
   );
 }
