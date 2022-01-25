@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/battleship-simulator/static/css/main.68dad279.css",
-    "main.js": "/battleship-simulator/static/js/main.3f98dc16.js",
+    "main.js": "/battleship-simulator/static/js/main.c41c1d0c.js",
     "static/js/787.91810151.chunk.js": "/battleship-simulator/static/js/787.91810151.chunk.js",
     "index.html": "/battleship-simulator/index.html",
     "main.68dad279.css.map": "/battleship-simulator/static/css/main.68dad279.css.map",
-    "main.3f98dc16.js.map": "/battleship-simulator/static/js/main.3f98dc16.js.map",
+    "main.c41c1d0c.js.map": "/battleship-simulator/static/js/main.c41c1d0c.js.map",
     "787.91810151.chunk.js.map": "/battleship-simulator/static/js/787.91810151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68dad279.css",
-    "static/js/main.3f98dc16.js"
+    "static/js/main.c41c1d0c.js"
   ]
 }
